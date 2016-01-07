@@ -16,6 +16,7 @@
 		101DD6EC1A052F0E00161F0D /* HTTPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 101DD6EB1A052F0E00161F0D /* HTTPClient.swift */; };
 		3217B1871C3D2FEC00E99E3F /* AlbumExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217B1861C3D2FEC00E99E3F /* AlbumExtensions.swift */; };
 		3217B1891C3D354D00E99E3F /* HorizontalScroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217B1881C3D354D00E99E3F /* HorizontalScroller.swift */; };
+		3217B18B1C3E1AC600E99E3F /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 3217B18A1C3E1AC600E99E3F /* README.md */; };
 		323D4D5D1C3D117D007DF57F /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = 323D4D5C1C3D117D007DF57F /* Album.swift */; };
 		323D4D5F1C3D1381007DF57F /* AlbumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 323D4D5E1C3D1381007DF57F /* AlbumView.swift */; };
 		323D4D641C3D1A95007DF57F /* LibraryAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 323D4D631C3D1A95007DF57F /* LibraryAPI.swift */; };
@@ -46,6 +47,7 @@
 		101DD6EB1A052F0E00161F0D /* HTTPClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTTPClient.swift; sourceTree = "<group>"; };
 		3217B1861C3D2FEC00E99E3F /* AlbumExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlbumExtensions.swift; sourceTree = "<group>"; };
 		3217B1881C3D354D00E99E3F /* HorizontalScroller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalScroller.swift; sourceTree = "<group>"; };
+		3217B18A1C3E1AC600E99E3F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		323D4D5C1C3D117D007DF57F /* Album.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
 		323D4D5E1C3D1381007DF57F /* AlbumView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlbumView.swift; sourceTree = "<group>"; };
 		323D4D631C3D1A95007DF57F /* LibraryAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryAPI.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				101DD6C81A052EDE00161F0D /* Supporting Files */,
 				101DD6DD1A052EDE00161F0D /* BlueLibrarySwiftTests */,
 				101DD6C61A052EDE00161F0D /* Products */,
+				3217B18A1C3E1AC600E99E3F /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -270,6 +273,7 @@
 			files = (
 				101DD6CD1A052EDE00161F0D /* ViewController.swift in Sources */,
 				3217B1871C3D2FEC00E99E3F /* AlbumExtensions.swift in Sources */,
+				3217B18B1C3E1AC600E99E3F /* README.md in Sources */,
 				101DD6CB1A052EDE00161F0D /* AppDelegate.swift in Sources */,
 				323D4D641C3D1A95007DF57F /* LibraryAPI.swift in Sources */,
 				3217B1891C3D354D00E99E3F /* HorizontalScroller.swift in Sources */,
